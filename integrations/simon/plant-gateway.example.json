@@ -1,0 +1,4 @@
+{
+  "endpoint": "http://127.0.0.1:8798/v1/character/events",
+  "token": "SAME_CHARACTER_GATEWAY_TOKEN_AS_ON_SERVER"
+}

@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1060" viewBox="0 0 1560 1060"><rect width="100%" height="100%" fill="white"/>
+<text x="50" y="71.53999999999999" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#152b36">Макетка · сборка из видео</text>
+<text x="50" y="117.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">Общие линии I²C собираем на половине A–E. Четвёртый ряд оставляем пустым.</text>
+<rect x="45" y="170" width="795" height="655" rx="16" fill="#fafafa" stroke="#b6c5ca" stroke-width="2"/>
+<text x="112" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">A</text>
+<text x="167" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">B</text>
+<text x="222" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">C</text>
+<text x="277" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">D</text>
+<text x="332" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">E</text>
+<text x="457" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">F</text>
+<text x="512" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">G</text>
+<text x="567" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">H</text>
+<text x="622" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">I</text>
+<text x="677" y="214.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">J</text>
+<rect x="385" y="235" width="30" height="535" rx="4" fill="#e2e8eb" stroke="#e2e8eb" stroke-width="2"/>
+<text x="63" y="299.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">1</text>
+<circle cx="120" cy="292" r="7" fill="#6d777c"/>
+<circle cx="175" cy="292" r="7" fill="#6d777c"/>
+<circle cx="230" cy="292" r="7" fill="#6d777c"/>
+<circle cx="285" cy="292" r="7" fill="#6d777c"/>
+<circle cx="340" cy="292" r="7" fill="#6d777c"/>
+<circle cx="465" cy="292" r="7" fill="#6d777c"/>
+<circle cx="520" cy="292" r="7" fill="#6d777c"/>
+<circle cx="575" cy="292" r="7" fill="#6d777c"/>
+<circle cx="630" cy="292" r="7" fill="#6d777c"/>
+<circle cx="685" cy="292" r="7" fill="#6d777c"/>
+<text x="63" y="361.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">2</text>
+<circle cx="120" cy="354" r="7" fill="#6d777c"/>
+<circle cx="175" cy="354" r="7" fill="#6d777c"/>
+<circle cx="230" cy="354" r="7" fill="#6d777c"/>
+<circle cx="285" cy="354" r="7" fill="#6d777c"/>
+<circle cx="340" cy="354" r="7" fill="#6d777c"/>
+<circle cx="465" cy="354" r="7" fill="#6d777c"/>
+<circle cx="520" cy="354" r="7" fill="#6d777c"/>
+<circle cx="575" cy="354" r="7" fill="#6d777c"/>
+<circle cx="630" cy="354" r="7" fill="#6d777c"/>
+<circle cx="685" cy="354" r="7" fill="#6d777c"/>
+<polyline points="120,416 340,416" fill="none" stroke="#17805c" stroke-width="13"/>
+<text x="63" y="423.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">3</text>
+<circle cx="120" cy="416" r="7" fill="#6d777c"/>
+<circle cx="175" cy="416" r="7" fill="#6d777c"/>
+<circle cx="230" cy="416" r="7" fill="#6d777c"/>
+<circle cx="285" cy="416" r="7" fill="#6d777c"/>
+<circle cx="340" cy="416" r="7" fill="#6d777c"/>
+<circle cx="465" cy="416" r="7" fill="#6d777c"/>
+<circle cx="520" cy="416" r="7" fill="#6d777c"/>
+<circle cx="575" cy="416" r="7" fill="#6d777c"/>
+<circle cx="630" cy="416" r="7" fill="#6d777c"/>
+<circle cx="685" cy="416" r="7" fill="#6d777c"/>
+<text x="63" y="485.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">4</text>
+<circle cx="120" cy="478" r="7" fill="#6d777c"/>
+<circle cx="175" cy="478" r="7" fill="#6d777c"/>
+<circle cx="230" cy="478" r="7" fill="#6d777c"/>
+<circle cx="285" cy="478" r="7" fill="#6d777c"/>
+<circle cx="340" cy="478" r="7" fill="#6d777c"/>
+<circle cx="465" cy="478" r="7" fill="#6d777c"/>
+<circle cx="520" cy="478" r="7" fill="#6d777c"/>
+<circle cx="575" cy="478" r="7" fill="#6d777c"/>
+<circle cx="630" cy="478" r="7" fill="#6d777c"/>
+<circle cx="685" cy="478" r="7" fill="#6d777c"/>
+<polyline points="120,540 340,540" fill="none" stroke="#aa7200" stroke-width="13"/>
+<text x="63" y="547.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">5</text>
+<circle cx="120" cy="540" r="7" fill="#6d777c"/>
+<circle cx="175" cy="540" r="7" fill="#6d777c"/>
+<circle cx="230" cy="540" r="7" fill="#6d777c"/>
+<circle cx="285" cy="540" r="7" fill="#6d777c"/>
+<circle cx="340" cy="540" r="7" fill="#6d777c"/>
+<circle cx="465" cy="540" r="7" fill="#6d777c"/>
+<circle cx="520" cy="540" r="7" fill="#6d777c"/>
+<circle cx="575" cy="540" r="7" fill="#6d777c"/>
+<circle cx="630" cy="540" r="7" fill="#6d777c"/>
+<circle cx="685" cy="540" r="7" fill="#6d777c"/>
+<text x="63" y="609.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">6</text>
+<circle cx="120" cy="602" r="7" fill="#6d777c"/>
+<circle cx="175" cy="602" r="7" fill="#6d777c"/>
+<circle cx="230" cy="602" r="7" fill="#6d777c"/>
+<circle cx="285" cy="602" r="7" fill="#6d777c"/>
+<circle cx="340" cy="602" r="7" fill="#6d777c"/>
+<circle cx="465" cy="602" r="7" fill="#6d777c"/>
+<circle cx="520" cy="602" r="7" fill="#6d777c"/>
+<circle cx="575" cy="602" r="7" fill="#6d777c"/>
+<circle cx="630" cy="602" r="7" fill="#6d777c"/>
+<circle cx="685" cy="602" r="7" fill="#6d777c"/>
+<text x="63" y="671.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">7</text>
+<circle cx="120" cy="664" r="7" fill="#6d777c"/>
+<circle cx="175" cy="664" r="7" fill="#6d777c"/>
+<circle cx="230" cy="664" r="7" fill="#6d777c"/>
+<circle cx="285" cy="664" r="7" fill="#6d777c"/>
+<circle cx="340" cy="664" r="7" fill="#6d777c"/>
+<circle cx="465" cy="664" r="7" fill="#6d777c"/>
+<circle cx="520" cy="664" r="7" fill="#6d777c"/>
+<circle cx="575" cy="664" r="7" fill="#6d777c"/>
+<circle cx="630" cy="664" r="7" fill="#6d777c"/>
+<circle cx="685" cy="664" r="7" fill="#6d777c"/>
+<text x="63" y="733.14" font-family="Arial, sans-serif" font-size="22" font-weight="400" fill="#152b36">8</text>
+<circle cx="120" cy="726" r="7" fill="#6d777c"/>
+<circle cx="175" cy="726" r="7" fill="#6d777c"/>
+<circle cx="230" cy="726" r="7" fill="#6d777c"/>
+<circle cx="285" cy="726" r="7" fill="#6d777c"/>
+<circle cx="340" cy="726" r="7" fill="#6d777c"/>
+<circle cx="465" cy="726" r="7" fill="#6d777c"/>
+<circle cx="520" cy="726" r="7" fill="#6d777c"/>
+<circle cx="575" cy="726" r="7" fill="#6d777c"/>
+<circle cx="630" cy="726" r="7" fill="#6d777c"/>
+<circle cx="685" cy="726" r="7" fill="#6d777c"/>
+<text x="739" y="217.62" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#be3333">+</text>
+<polyline points="748,260 748,750" fill="none" stroke="#be3333" stroke-width="4"/>
+<circle cx="748" cy="292" r="6" fill="#be3333"/>
+<circle cx="748" cy="354" r="6" fill="#be3333"/>
+<circle cx="748" cy="416" r="6" fill="#be3333"/>
+<circle cx="748" cy="478" r="6" fill="#be3333"/>
+<circle cx="748" cy="540" r="6" fill="#be3333"/>
+<circle cx="748" cy="602" r="6" fill="#be3333"/>
+<circle cx="748" cy="664" r="6" fill="#be3333"/>
+<circle cx="748" cy="726" r="6" fill="#be3333"/>
+<text x="786" y="217.62" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#263744">−</text>
+<polyline points="795,260 795,750" fill="none" stroke="#263744" stroke-width="4"/>
+<circle cx="795" cy="292" r="6" fill="#263744"/>
+<circle cx="795" cy="354" r="6" fill="#263744"/>
+<circle cx="795" cy="416" r="6" fill="#263744"/>
+<circle cx="795" cy="478" r="6" fill="#263744"/>
+<circle cx="795" cy="540" r="6" fill="#263744"/>
+<circle cx="795" cy="602" r="6" fill="#263744"/>
+<circle cx="795" cy="664" r="6" fill="#263744"/>
+<circle cx="795" cy="726" r="6" fill="#263744"/>
+<circle cx="120" cy="416" r="12" fill="#17805c"/>
+<circle cx="175" cy="416" r="12" fill="#17805c"/>
+<circle cx="230" cy="416" r="12" fill="#17805c"/>
+<circle cx="120" cy="540" r="12" fill="#aa7200"/>
+<circle cx="175" cy="540" r="12" fill="#aa7200"/>
+<circle cx="230" cy="540" r="12" fill="#aa7200"/>
+<text x="885" y="215.23" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#17805c">Ряд 3 — SDA</text>
+<text x="885" y="266.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">A3  ←  GPIO8 ESP32</text>
+<text x="885" y="308.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">B3  ←  SDA/RH фиолетового</text>
+<text x="885" y="350.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">C3  ←  SDA синего</text>
+<text x="885" y="425.23" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#aa7200">Ряд 5 — SCL</text>
+<text x="885" y="476.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">A5  ←  GPIO9 ESP32</text>
+<text x="885" y="518.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">B5  ←  SCL/T фиолетового</text>
+<text x="885" y="560.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#152b36">C5  ←  SCL синего</text>
+<text x="885" y="635.23" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#152b36">Питание и почва</text>
+<text x="885" y="685.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">«+» ← 3V3 и питание трёх датчиков</text>
+<text x="885" y="724.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">«−» ← GND и земли трёх датчиков</text>
+<text x="885" y="763.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">AOUT почвы → GPIO4 напрямую</text>
+<text x="885" y="802.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">ADD синего → не подключать</text>
+<text x="50" y="892.62" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#152b36">A–E одного номера соединены. F–J того же номера — отдельная группа.</text>
+<text x="50" y="940.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">Через центральную канавку контакта нет. Разные номера рядов тоже не соединены.</text>
+<text x="50" y="985.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">Шины «+» и «−» могут иметь разрыв: используйте один непрерывный участок каждой.</text>
+<text x="50" y="1025.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">Нумерацию сверяйте со своей макеткой. Не соединяйте «+» и «−» между собой.</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "owner_id": 0,
+  "openai_key": "YOUR_OPENAI_API_KEY",
+  "model": "gpt-5.4-mini",
+  "bot_username": "YOUR_BOT_USERNAME_WITHOUT_AT",
+  "data_dir": "/var/lib/neuroflower",
+  "sensor_mode": "remote",
+  "daily_ai_limit": 60,
+  "character_gateway_enabled": false,
+  "ingest_host": "127.0.0.1",
+  "ingest_port": 8797,
+  "ingest_token": "REPLACE_WITH_RANDOM_64_HEX_CHARACTERS",
+  "character_gateway_host": "127.0.0.1",
+  "character_gateway_port": 8798,
+  "character_gateway_token": "REPLACE_WITH_ANOTHER_RANDOM_64_HEX_TOKEN"
+}

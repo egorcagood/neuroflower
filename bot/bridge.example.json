@@ -1,0 +1,5 @@
+{
+  "serial_port": "auto",
+  "ingest_url": "https://YOUR_DOMAIN/neuroflower/v1/readings",
+  "ingest_token": "SAME_INGEST_TOKEN_AS_ON_SERVER"
+}

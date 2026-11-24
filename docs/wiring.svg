@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1740" height="1000" viewBox="0 0 1740 1000"><rect width="100%" height="100%" fill="white"/>
+<text x="55" y="73.28" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#152b36">Нейроцветок · схема соединений</text>
+<text x="55" y="122.62" font-family="Arial, sans-serif" font-size="26" font-weight="400" fill="#152b36">ESP32-S3 N16R8  •  все датчики питаются от 3,3 В  •  USB отключён во время сборки</text>
+<polyline points="55,500 1680,500" fill="none" stroke="#be3333" stroke-width="4"/>
+<text x="55" y="530.27" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#be3333">3V3</text>
+<polyline points="55,565 1680,565" fill="none" stroke="#263744" stroke-width="4"/>
+<text x="55" y="595.27" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#263744">GND</text>
+<polyline points="55,630 1680,630" fill="none" stroke="#17805c" stroke-width="4"/>
+<text x="55" y="660.27" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17805c">SDA · GPIO8</text>
+<polyline points="55,695 1680,695" fill="none" stroke="#aa7200" stroke-width="4"/>
+<text x="55" y="725.27" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#aa7200">SCL · GPIO9</text>
+<polyline points="55,760 1680,760" fill="none" stroke="#7046a6" stroke-width="4"/>
+<text x="55" y="790.27" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#7046a6">AOUT · GPIO4</text>
+<rect x="55" y="200" width="390" height="190" rx="16" fill="#f3f6f7" stroke="#b6c5ca" stroke-width="2"/>
+<text x="75" y="249.1" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#152b36">ESP32-S3</text>
+<text x="75" y="287.4" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#152b36">HW678 V6.0.0 / N16R8</text>
+<text x="77" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">3V3</text>
+<polyline points="95,390 95,500" fill="none" stroke="#be3333" stroke-width="3"/>
+<circle cx="95" cy="390" r="6" fill="#be3333"/>
+<circle cx="95" cy="500" r="8" fill="#be3333"/>
+<text x="154" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">GND</text>
+<polyline points="172,390 172,565" fill="none" stroke="#263744" stroke-width="3"/>
+<circle cx="172" cy="390" r="6" fill="#263744"/>
+<circle cx="172" cy="565" r="8" fill="#263744"/>
+<text x="244" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">8</text>
+<polyline points="250,390 250,630" fill="none" stroke="#17805c" stroke-width="3"/>
+<circle cx="250" cy="390" r="6" fill="#17805c"/>
+<circle cx="250" cy="630" r="8" fill="#17805c"/>
+<text x="322" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">9</text>
+<polyline points="328,390 328,695" fill="none" stroke="#aa7200" stroke-width="3"/>
+<circle cx="328" cy="390" r="6" fill="#aa7200"/>
+<circle cx="328" cy="695" r="8" fill="#aa7200"/>
+<text x="399" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">4</text>
+<polyline points="405,390 405,760" fill="none" stroke="#7046a6" stroke-width="3"/>
+<circle cx="405" cy="390" r="6" fill="#7046a6"/>
+<circle cx="405" cy="760" r="8" fill="#7046a6"/>
+<rect x="490" y="200" width="365" height="190" rx="16" fill="#f3f6f7" stroke="#b6c5ca" stroke-width="2"/>
+<text x="510" y="249.1" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#152b36">SHT30</text>
+<text x="510" y="287.4" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#152b36">SDA = SDA/RH; SCL = SCL/T</text>
+<text x="512" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">VIN</text>
+<polyline points="530,390 530,500" fill="none" stroke="#be3333" stroke-width="3"/>
+<circle cx="530" cy="390" r="6" fill="#be3333"/>
+<circle cx="530" cy="500" r="8" fill="#be3333"/>
+<text x="607" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">GND</text>
+<polyline points="625,390 625,565" fill="none" stroke="#263744" stroke-width="3"/>
+<circle cx="625" cy="390" r="6" fill="#263744"/>
+<circle cx="625" cy="565" r="8" fill="#263744"/>
+<text x="702" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">SDA</text>
+<polyline points="720,390 720,630" fill="none" stroke="#17805c" stroke-width="3"/>
+<circle cx="720" cy="390" r="6" fill="#17805c"/>
+<circle cx="720" cy="630" r="8" fill="#17805c"/>
+<text x="797" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">SCL</text>
+<polyline points="815,390 815,695" fill="none" stroke="#aa7200" stroke-width="3"/>
+<circle cx="815" cy="390" r="6" fill="#aa7200"/>
+<circle cx="815" cy="695" r="8" fill="#aa7200"/>
+<rect x="900" y="200" width="345" height="190" rx="16" fill="#f3f6f7" stroke="#b6c5ca" stroke-width="2"/>
+<text x="920" y="249.1" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#152b36">BH1750 / GY-30</text>
+<text x="920" y="287.4" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#152b36">ADD оставить свободным</text>
+<text x="922" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">VCC</text>
+<polyline points="940,390 940,500" fill="none" stroke="#be3333" stroke-width="3"/>
+<circle cx="940" cy="390" r="6" fill="#be3333"/>
+<circle cx="940" cy="500" r="8" fill="#be3333"/>
+<text x="1010" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">GND</text>
+<polyline points="1028,390 1028,565" fill="none" stroke="#263744" stroke-width="3"/>
+<circle cx="1028" cy="390" r="6" fill="#263744"/>
+<circle cx="1028" cy="565" r="8" fill="#263744"/>
+<text x="1099" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">SDA</text>
+<polyline points="1117,390 1117,630" fill="none" stroke="#17805c" stroke-width="3"/>
+<circle cx="1117" cy="390" r="6" fill="#17805c"/>
+<circle cx="1117" cy="630" r="8" fill="#17805c"/>
+<text x="1187" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">SCL</text>
+<polyline points="1205,390 1205,695" fill="none" stroke="#aa7200" stroke-width="3"/>
+<circle cx="1205" cy="390" r="6" fill="#aa7200"/>
+<circle cx="1205" cy="695" r="8" fill="#aa7200"/>
+<rect x="1290" y="200" width="390" height="190" rx="16" fill="#f3f6f7" stroke="#b6c5ca" stroke-width="2"/>
+<text x="1310" y="249.1" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#152b36">Датчик почвы</text>
+<text x="1310" y="287.4" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#152b36">Аналоговый ёмкостный</text>
+<text x="1312" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">VCC</text>
+<polyline points="1330,390 1330,500" fill="none" stroke="#be3333" stroke-width="3"/>
+<circle cx="1330" cy="390" r="6" fill="#be3333"/>
+<circle cx="1330" cy="500" r="8" fill="#be3333"/>
+<text x="1467" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">GND</text>
+<polyline points="1485,390 1485,565" fill="none" stroke="#263744" stroke-width="3"/>
+<circle cx="1485" cy="390" r="6" fill="#263744"/>
+<circle cx="1485" cy="565" r="8" fill="#263744"/>
+<text x="1616" y="359.14" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#152b36">AOUT</text>
+<polyline points="1640,390 1640,760" fill="none" stroke="#7046a6" stroke-width="3"/>
+<circle cx="1640" cy="390" r="6" fill="#7046a6"/>
+<circle cx="1640" cy="760" r="8" fill="#7046a6"/>
+<text x="55" y="861.75" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#152b36">Точка на пересечении = соединение. Пересечения без точки не соединены.</text>
+<text x="55" y="905.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">Это электрическая схема: положение выводов на рисунке не повторяет расположение ножек платы.</text>
+<text x="55" y="950.88" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#152b36">GPIO — номер на маркировке ESP32. Не подключать питание датчиков к 5V / VBUS.</text>
+</svg>
